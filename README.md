@@ -1,16 +1,18 @@
-### Hi there 👋
+# Jack Kelly
+### ⌨Software Engineering Intern at Cerner, 🎓High School Senior
 
-<!--
-**JackRKelly/JackRKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-Here are some ideas to get you started:
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][6.1]][6]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: https://i.ibb.co/QK8dtS1/dev-to-small.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: https://twitter.com/JRKCodes
+[2]: https://dev.to/jackrkelly
+[6]: https://github.com/JackRKelly
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
