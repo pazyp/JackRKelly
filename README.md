@@ -1,5 +1,5 @@
 # Jack Kelly
-### ⌨Software Engineering Intern at Cerner, 🎓High School Senior
+### ⌨Software Engineer at Cerner, 🎓High School Senior
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
