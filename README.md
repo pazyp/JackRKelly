@@ -1,20 +1,20 @@
-# Jack Kelly
-### ⌨Software Engineer
+# Jack Kelly - Software Engineer
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+I'm a self-taught software engineer who is based out of Kansas. I have been coding for 5 years since I first go introduced to web development. In my free time enjoy contributing to open-source, designing, and working on side projects.
 
+[![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][6.1]][6]
-[![alt text][7.1]][7]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
 
-[2.1]: https://i.ibb.co/QK8dtS1/dev-to-small.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: https://i.ibb.co/98Q1DBY/0o48UoR.png (linkedin icon with padding)
-
-
-
-[2]: https://dev.to/jackrkelly
-[6]: https://github.com/JackRKelly
-[7]: https://www.linkedin.com/in/jackkelly4/
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+[1.1]: /tags/linkedin.png "linked in tag"
+[2.1]: /tags/email.png "email tag"
+[3.1]: /tags/devto.png "devto tag"
+[4.1]: /tags/portfolio.png "portfolio tag"
+[5.1]: /tags/resume.png "resume tag"
+[1]: https://www.linkedin.com/in/jackkelly4
+[2]: mailto:me@jrk.digital
+[3]: https://dev.to/jackrkelly
+[4]: https://jrk.digital/
+[5]: https://jrk.digital/pdf/jack-kelly-resume.pdf
