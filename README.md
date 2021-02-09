@@ -1,6 +1,6 @@
 # Jack Kelly - Software Engineer
 
-I'm a self-taught software engineer who is based out of Kansas. I have been coding for 5 years since I first go introduced to web development. In my free time enjoy contributing to open-source, designing, and working on side projects.
+I'm a self-taught software engineer who is based out of Kansas. I have been coding for 5 years since I first got introduced to web development. In my free time I enjoy contributing to open-source, designing, and working on side projects.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
